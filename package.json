@@ -2,10 +2,10 @@
   "name": "discord-clone-backend",
   "version": "1.0.0",
   "description": "Discord-like chat application backend",
-  "main": "Server.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node Server.js",
+    "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "dependencies": {
