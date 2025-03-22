@@ -1,5 +1,5 @@
 {
-  "name": "discord-clone-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Discord-like chat application backend",
   "main": "server.js",
